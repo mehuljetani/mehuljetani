@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mehul_jetani" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_jetani?logo=twitter&style=for-the-badge" alt="mehul_jetani" /></a> </p>
 
-- 🌱 I’m currently learning **nodejs, python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mehuljetani](https://github.com/mehuljetani)
 
 - 📝 I regularly write articles on [https://medium.com/@mehuljetani123](https://medium.com/@mehuljetani123)

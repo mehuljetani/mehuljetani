@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mehul_jetani" target="blank"><img src="https://img.shields.io/twitter/follow/mehul_jetani?logo=twitter&style=for-the-badge" alt="mehul_jetani" /></a> </p>
 
+- 📫 How to reach me **mehuljetani123@gmail.com**
+
 - 👨‍💻 All of my projects are available at [https://github.com/mehuljetani](https://github.com/mehuljetani)
 
-- 📝 I regularly write articles on [https://medium.com/@mehuljetani123](https://medium.com/@mehuljetani123)
-
-- 📫 How to reach me **mehuljetani123@gmail.com**
+- 📝 https://play.google.com/store/apps/details?id=com.kinderword&pcampaignid=web_share
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
